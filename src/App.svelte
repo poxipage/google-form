@@ -9,7 +9,7 @@
 </script>
 
 {#if url == "/viewform?embedded=true"}
-  <p>Fancy animation</p>
+  <p class="text-base-content">Enter link to the google form in the settings</p>
 {:else if regex.test(url)}
   <iframe class="w-full h-full" src={url} frameborder="0"></iframe>
 {:else}

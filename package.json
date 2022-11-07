@@ -27,7 +27,7 @@
     "postcss": "^8.4.16",
     "postcss-load-config": "^4.0.1",
     "postcss-preset-env": "^7.8.2",
-    "poxi": "^0.0.16",
+    "poxi": "^0.0.21",
     "svelte": "^3.50.1",
     "svelte-preprocess": "^4.10.7",
     "tailwind-scrollbar-hide": "^1.1.7",
